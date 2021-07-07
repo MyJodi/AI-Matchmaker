@@ -6,3 +6,4 @@ sklearn
 streamlit
 Pillow
 scipy
+streamlit==0.81.0
